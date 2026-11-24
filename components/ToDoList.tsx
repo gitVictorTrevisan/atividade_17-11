@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
   input: {
     flex: 1,
     borderWidth: 1,
-    borderColor: "#ccc",
+    borderColor: "#ccccccd7",
     borderRadius: 4,
     paddingHorizontal: 12,
     paddingVertical: 8,
